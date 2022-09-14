@@ -1,5 +1,5 @@
 -e .
-idna==3.3
+idna==3.4
 multidict==6.0.2
 pytest==7.1.2
 pytest-cov>=2.3.1
